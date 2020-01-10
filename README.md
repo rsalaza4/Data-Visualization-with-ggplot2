@@ -7,4 +7,5 @@ This repository contains a collection of R codes for data visualization using gg
 
 ## Packages
 
+* [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/ggcorrplot.pdf)
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
