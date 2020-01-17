@@ -12,4 +12,4 @@ This repository contains a collection of R codes for data visualization using gg
 * [ggextra](https://cran.r-project.org/web/packages/ggExtra/ggExtra.pdf)
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
 * [quantmod](https://cran.r-project.org/web/packages/quantmod/quantmod.pdf)
-
+* [scales](https://cran.r-project.org/web/packages/scales/scales.pdf)
