@@ -11,6 +11,7 @@ This repository contains a collection of R codes for data visualization using gg
 * [ggcorrplot](https://cran.r-project.org/web/packages/ggcorrplot/ggcorrplot.pdf)
 * [ggdendro](https://cran.r-project.org/web/packages/ggdendro/ggdendro.pdf)
 * [ggextra](https://cran.r-project.org/web/packages/ggExtra/ggExtra.pdf)
+* [ggfortify](https://cran.r-project.org/web/packages/ggfortify/ggfortify.pdf)
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
 * [ggthemes](https://cran.r-project.org/web/packages/ggthemes/ggthemes.pdf)
 * [quantmod](https://cran.r-project.org/web/packages/quantmod/quantmod.pdf)
