@@ -16,3 +16,9 @@ This repository contains a collection of R codes for data visualization using gg
 * [ggthemes](https://cran.r-project.org/web/packages/ggthemes/ggthemes.pdf)
 * [quantmod](https://cran.r-project.org/web/packages/quantmod/quantmod.pdf)
 * [scales](https://cran.r-project.org/web/packages/scales/scales.pdf)
+
+---
+
+### Roberto Salazar
+
+**Email:** rsalaza4@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/roberto-salazar-reyna/) | [Medium](https://medium.com/@rsalaza4)
